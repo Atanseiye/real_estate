@@ -1,0 +1,402 @@
+building_size,type,Value,bedroom,age,bathrooms,toilets,Boy'squarter,loc_density,condition,Ceiling ,Floor,Roof,Window ,Painting,water,Electricity,Car_park,Security
+64,Mini Flat,86,88,65,34,78,Present,High density,Very good,Asbestos,Tiles,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Very good,Present,Gated estate
+200,Bungalow,60000000,2,3,2,3,Absent,Medium density,Very good,Others,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Not present,Private gate/fence
+200,Terrace,100000000,4,1,4,5,Absent,High density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Good,Good,Not present,Gated estate
+500,Detached house,150000000,5,9,5,5,Absent,Medium density,Good,POP,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Good,Present,Gated estate
+100,Mini Flat,50000000,1,5,1,2,Absent,High density,Good,Others,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Very good,Not present,Private gate/fence
+300,Detached house,250000000,5,5,6,7,Present,High density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Very good,Present,Gated estate
+243,Bungalow,48000000,3,17,3,4,Absent,Low density,Fair,Asbestos,Tiles,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Fair,Not present,None
+500,Detached house,261500000,4,2,4,5,Absent,High density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Fair,Very good,Present,Gated estate
+150,Terrace,85000000,2,1,2,3,Absent,Medium density,Very good,Others,Wooden,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Good,Good,Not present,Gated estate
+380,Detached house,390000000,5,5,5,6,Present,High density,Very good,Others,Tiles,Others,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Very good,Present,Gated estate
+500,Semi-detached house,65000000,3,12,4,5,Present,Medium density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Satin Paint,Good,Fair,Not present,Private gate/fence
+220,Semi-detached house,165000000,4,8,5,6,Present,Medium density,Good,POP,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Very good,Present,Private gate/fence
+550,Detached house,110000000,4,5,4,5,Absent,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Gated estate
+550,Semi-detached house,120000000,4,8,4,5,Present,Medium density,Good,POP,Others,Aluminium Step Tiles Roofing Sheet,Casement,Gloss Paint,Good,Good,Present,Private gate/fence
+250,Bungalow,33000000,3,4,4,5,Present,Low density,Good,POP,Tiles,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Fair,Not present,Private gate/fence
+600,Bungalow,46000000,3,9,3,4,Absent,Medium density,Good,Others,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Fair,Very good,Not present,Private gate/fence
+346,Mini Flat,49999999,2,2,2,2,Absent,High density,Very good,POP,Marble,Long Span Aluminium Roofing sheet,Casement,Textcote Paint,Good,Good,Not present,Street gate
+300,Detached house,600000000,5,1,5,6,Present,High density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Very good,Present,Private gate/fence
+335,Detached house,450000000,5,1,5,5,Absent,High density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Gloss Paint,Good,Good,Present,Gated estate
+150,Semi-detached house,150000000,3,2,4,5,Present,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Satin Paint,Good,Good,Not present,Gated estate
+400,Detached house,650000000,5,4,5,6,Present,Medium density,Very good,Others,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Private gate/fence
+1200,Terrace,250000000,2,7,3,4,Present,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Present,Street gate
+900,Detached house,380000000,4,15,5,6,Present,High density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Good,Very good,Present,Private gate/fence
+600,Detached house,480000000,4,5,4,5,Present,High density,Very good,POP,Marble,Aluminium Step Tiles Roofing Sheet,Casement,Gloss Paint,Good,Good,Present,Gated estate
+600,Semi-detached house,350000000,3,6,4,5,Present,Medium density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Fair,Present,Private gate/fence
+300,Bungalow,170000000,3,1,3,4,Absent,High density,Very good,Others,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Gloss Paint,Good,Good,Not present,Gated estate
+450,Terrace,260000000,4,6,4,5,Absent,High density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Emulsion Paint,Good,Good,Present,Private gate/fence
+320,Detached house,140000000,4,12,5,5,Present,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Others,Emulsion Paint,Fair,Good,Not present,Gated estate
+400,Semi-detached house,120000000,3,7,3,4,Absent,Medium density,Good,POP,Marble,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Gated estate
+400,Detached house,200000000,4,1,4,5,Absent,Medium density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Textcote Paint,Good,Good,Present,Gated estate
+200,Semi-detached house,120000000,3,3,3,4,Absent,Low density,Very good,POP,Wooden,Aluminium Step Tiles Roofing Sheet,Others,Emulsion Paint,Good,Fair,Present,Private gate/fence
+300,Detached house,200000000,4,1,5,5,Present,Medium density,Very good,Others,Marble,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Satin Paint,Good,Good,Not present,Private gate/fence
+250,Terrace,90000000,3,1,3,4,Absent,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Fair,Good,Not present,Street gate
+300,Terrace,250000000,4,1,3,4,Absent,High density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Good,Very good,Present,Gated estate
+320,Semi-detached house,115000000,5,5,5,6,Present,Medium density,Good,PVC,Tiles,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,None
+300,Semi-detached house,165000000,2,12,2,3,Present,High density,Fair,POP,Marble,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Satin Paint,Fair,Good,Not present,Private gate/fence
+250,Bungalow,100000000,3,5,3,4,Present,Medium density,Very good,POP,Others,Aluminium Step Tiles Roofing Sheet,Casement,Emulsion Paint,Good,Very good,Present,Gated estate
+500,Detached house,300000000,4,10,3,4,Absent,Medium density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Fair,Very good,Present,Gated estate
+500,Terrace,70000000,2,4,2,3,Absent,Medium density,Good,POP,Marble,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Fair,Good,Not present,Gated estate
+650,Semi-detached house,170000000,4,12,3,4,Present,High density,Good,POP,Marble,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Fair,Present,Gated estate
+300,Detached house,220000000,5,5,5,6,Absent,Medium density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Gated estate
+450,Detached house,300000000,6,1,6,6,Present,High density,Very good,POP,Others,Long Span Aluminium Roofing sheet,Casement,Textcote Paint,Good,Very good,Present,Gated estate
+350,Detached house,350000000,5,4,6,7,Present,High density,Very good,Others,Marble,Long Span Aluminium Roofing sheet,Casement,Textcote Paint,Good,Good,Present,Private gate/fence
+800,Terrace,130000000,3,3,3,4,Absent,Medium density,Good,POP,Marble,Others,Glazed Aluminium Sliding Window,Gloss Paint,Fair,Fair,Not present,Gated estate
+120,Bungalow,80000000,2,8,2,3,Present,Medium density,Good,Others,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Fair,Not present,Private gate/fence
+210,Terrace,145000000,4,12,2,3,Absent,High density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Gated estate
+683,Semi-detached house,170000000,5,1,5,6,Present,Medium density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Gloss Paint,Fair,Very good,Present,Gated estate
+400,Detached house,230000000,4,7,4,5,Absent,Medium density,Good,Others,Marble,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Not present,Gated estate
+300,Semi-detached house,150000000,4,6,4,5,Present,Medium density,Good,POP,Others,Others,Glazed Aluminium Sliding Window,Gloss Paint,Fair,Fair,Present,Gated estate
+400,Detached house,280000000,3,9,4,5,Absent,High density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Satin Paint,Good,Very good,Present,Private gate/fence
+500,Detached house,800000000,6,2,6,7,Present,High density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Emulsion Paint,Good,Very good,Present,Private gate/fence
+200,Semi-detached house,180000000,3,4,4,5,Present,Medium density,Good,POP,Tiles,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Bad,Very good,Present,Gated estate
+430,Detached house,430000000,5,1,4,5,Absent,High density,Very good,POP,Others,Aluminium Step Tiles Roofing Sheet,Casement,Textcote Paint,Good,Good,Present,Gated estate
+300,Detached house,550000000,4,1,4,5,Absent,High density,Very good,POP,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Good,Present,Gated estate
+450,Detached house,300000000,4,5,4,5,Absent,High density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Emulsion Paint,Good,Good,Present,Gated estate
+500,Detached house,600000000,5,3,5,6,Absent,High density,Very good,POP,Marble,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Gated estate
+650,Detached house,220000000,1,1,3,4,Present,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Satin Paint,Good,Good,Not present,Private gate/fence
+300,Semi-detached house,180000000,4,6,3,3,Present,Low density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Fair,Fair,Not present,Private gate/fence
+650,Semi-detached house,170000000,3,7,3,4,Present,Medium density,Good,POP,Others,Aluminium Step Tiles Roofing Sheet,Casement,Gloss Paint,Good,Good,Not present,Street gate
+350,Semi-detached house,390000000,5,8,7,7,Absent,High density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Gated estate
+600,Detached house,1400000000,6,1,7,7,Present,High density,Very good,Others,Others,Long Span Aluminium Roofing sheet,Others,Emulsion Paint,Good,Very good,Present,Gated estate
+500,Detached house,180000000,4,15,3,3,Absent,Medium density,Fair,POP,Marble,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Fair,Good,Not present,Street gate
+240,Bungalow,45000000,2,5,2,2,Absent,Medium density,Good,PVC,Others,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,Gloss Paint,Bad,Fair,Not present,None
+150,Mini Flat,30000000,1,6,1,2,Absent,Medium density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Good,Good,Not present,Private gate/fence
+580,Detached house,190000000,3,2,3,4,Present,Medium density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Emulsion Paint,Good,Good,Present,Gated estate
+500,Semi-detached house,120000000,4,1,6,6,Present,Medium density,Very good,POP,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Fair,Good,Not present,Private gate/fence
+500,Semi-detached house,110000000,5,10,4,4,Absent,Low density,Fair,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Satin Paint,Fair,Good,Not present,Gated estate
+400,Detached house,75000000,3,18,3,3,Absent,Medium density,Poor,Asbestos,Marble,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,None,Bad,Good,Not present,Private gate/fence
+300,Bungalow,50000000,3,1,3,4,Absent,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Present,Gated estate
+200,Bungalow,55000000,4,4,4,5,Present,High density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Emulsion Paint,Good,Very good,Present,Gated estate
+500,Bungalow,65000000,3,3,3,4,Absent,High density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Gated estate
+650,Detached house,210000000,4,1,2,4,Absent,Low density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Fair,Bad,Present,Gated estate
+900,Detached house,1000000000,7,1,9,8,Present,High density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Very good,Present,Gated estate
+600,Detached house,400000000,6,2,4,5,Absent,High density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Gated estate
+350,Semi-detached house,80000000,3,2,2,3,Absent,Low density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Fair,Good,Not present,Gated estate
+460,Terrace,980000000,3,1,3,3,Present,Low density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Not present,Gated estate
+300,Bungalow,75000000,4,8,3,3,Absent,Medium density,Good,PVC,Others,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Satin Paint,Good,Good,Not present,Private gate/fence
+900,Detached house,800000000,5,5,5,6,Present,High density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Textcote Paint,Good,Very good,Present,Private gate/fence
+600,Semi-detached house,350000000,4,2,4,4,Absent,High density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Fair,Very good,Present,Private gate/fence
+500,Terrace,220000000,3,1,3,4,Present,High density,Very good,POP,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Satin Paint,Good,Good,Not present,Street gate
+640,Detached house,310000000,4,1,3,4,Absent,Medium density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Fair,Very good,Present,Gated estate
+300,Bungalow,170000000,5,1,5,6,Present,High density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Gloss Paint,Good,Good,Not present,Gated estate
+300,Detached house,270000000,5,2,5,5,Absent,Medium density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Not present,Gated estate
+300,Bungalow,170000000,5,1,4,4,Absent,High density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Fair,Good,Not present,Private gate/fence
+400,Semi-detached house,120000000,3,1,4,5,Absent,Medium density,Good,Others,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Gated estate
+400,Detached house,200000000,4,12,4,4,Present,Medium density,Good,Others,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Fair,Present,Gated estate
+200,Semi-detached house,120000000,4,10,4,5,Absent,Low density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Others,Satin Paint,Fair,Fair,Not present,Gated estate
+300,Detached house,200000000,3,6,4,4,Present,Medium density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Good,Present,Private gate/fence
+250,Terrace,90000000,2,2,2,3,Absent,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Good,Good,Not present,Street gate
+600,Detached house,450000000,3,1,4,5,Present,Medium density,Very good,POP,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Very good,Present,Gated estate
+500,Semi-detached house,115000000,4,10,3,3,Absent,Medium density,Fair,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Fair,Not present,Gated estate
+300,Bungalow,165000000,2,1,3,4,Present,High density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Gated estate
+250,Bungalow,130000000,3,2,2,3,Absent,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Good,Good,Not present,Private gate/fence
+500,Detached house,300000000,6,3,4,5,Absent,Medium density,Very good,Others,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Satin Paint,Good,Very good,Present,Gated estate
+120,Bungalow,18000000,3,18,2,2,Absent,Low density,Poor,Asbestos,Cement screed,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,None,Fair,Fair,Not present,Private gate/fence
+500,Detached house,250000000,5,1,5,6,Absent,Medium density,Very good,POP,Tiles,Others,Glazed Aluminium Sliding Window,Textcote Paint,Good,Very good,,Gated estate
+500,Detached house,261500000,4,3,4,5,Present,Medium density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Others,Emulsion Paint,Good,Fair,Not present,Private gate/fence
+300,Semi-detached house,90000000,3,5,3,4,Absent,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Satin Paint,Good,Good,Not present,Private gate/fence
+165,Detached house,205000000,3,9,3,4,Present,Medium density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Good,,Private gate/fence
+650,Bungalow,60000000,3,1,4,4,Absent,Medium density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Bad,Good,Not present,Gated estate
+243,Bungalow,48000000,3,6,3,4,Absent,Low density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Fair,Not present,None
+250,Terrace,250000000,,3,3,3,Absent,Medium density,,Others,Tiles,Long Span Aluminium Roofing sheet,Casement,Textcote Paint,Fair,Fair,Not present,Gated estate
+700,Detached house,500000000,7,10,7,8,Present,Medium density,Good,Others,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Fair,Very good,Not present,Private gate/fence
+300,Bungalow,48000000,3,6,3,3,Absent,Low density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Satin Paint,Fair,Good,Not present,Private gate/fence
+450,Semi-detached house,250000000,4,2,4,5,Present,Medium density,Very good,Others,Tiles,Long Span Aluminium Roofing sheet,Casement,Gloss Paint,Good,Good,Not present,Gated estate
+350,Semi-detached house,75000000,3,9,2,3,Absent,Low density,Good,POP,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Fair,Good,Not present,Street gate
+400,Semi-detached house,100000000,4,5,4,5,Present,Medium density,Good,Others,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Fair,Not present,Gated estate
+800,Detached house,900000000,5,1,6,7,Present,High density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Gated estate
+800,Detached house,950000000,5,12,5,6,Present,High density,Good,POP,Marble,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Very good,Present,Private gate/fence
+120,Mini Flat,50000000,1,1,1,2,Absent,Medium density,Good,POP,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Very good,Not present,Private gate/fence
+200,Detached house,220000000,2,1,2,3,Present,Medium density,Fair,POP,Others,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Gloss Paint,Bad,Good,Not present,Private gate/fence
+400,Semi-detached house,100000000,4,1,4,5,Present,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Private gate/fence
+450,Semi-detached house,120000000,5,16,4,5,Present,Medium density,Good,Others,Tiles,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Good,Good,Not present,Gated estate
+450,Detached house,350000000,5,4,6,7,Present,High density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Very good,Present,Gated estate
+350,Semi-detached house,120000000,4,7,4,4,Present,Medium density,Good,Others,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Fair,Good,Not present,Private gate/fence
+700,Detached house,260000000,7,9,6,7,Present,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Textcote Paint,Fair,Good,Present,Private gate/fence
+600,Bungalow,75000000,5,11,3,3,Absent,Medium density,Good,PVC,Tiles,Long Span Aluminium Roofing sheet,Casement,Gloss Paint,Good,Good,Not present,Private gate/fence
+450,Detached house,450000000,5,1,5,6,Present,Medium density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Not present,Gated estate
+500,Detached house,350000000,4,2,4,5,Absent,Medium density,Very good,POP,Others,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Private gate/fence
+259,Semi-detached house,85000000,4,9,2,3,Absent,Low density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Satin Paint,Fair,Good,Not present,Private gate/fence
+400,Detached house,2100000000,4,2,5,6,Absent,High density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Very good,Present,Private gate/fence
+250,Semi-detached house,130000000,4,1,4,5,Present,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Fair,Good,Present,Gated estate
+300,Detached house,280000000,5,3,4,5,Present,Medium density,Good,Others,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Fair,Good,Present,Gated estate
+250,Detached house,95000000,4,5,3,3,Absent,Low density,Good,POP,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Satin Paint,Fair,Fair,Not present,Gated estate
+500,Detached house,1100000000,5,1,6,7,Present,High density,Very good,POP,Tiles,Others,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Very good,Present,Gated estate
+450,Semi-detached house,260000000,4,3,4,5,Absent,High density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Good,Good,Not present,Gated estate
+450,Detached house,390000000,5,5,5,6,Present,Medium density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Good,Not present,Private gate/fence
+500,Detached house,470000000,5,1,6,7,Absent,High density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Very good,Present,Gated estate
+450,Detached house,380000000,5,8,4,6,Absent,High density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Gated estate
+1050,Bungalow,630000000,5,5,4,4,Absent,Medium density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Emulsion Paint,Good,Good,Not present,Private gate/fence
+600,Bungalow,20000000,3,23,2,2,Absent,Low density,Poor,Asbestos,Cement screed,Corrugated Iron Sheet,Louvers Blade,Gloss Paint,Fair,Good,Not present,Private gate/fence
+650,Bungalow,38000000,6,21,2,2,Absent,Low density,Fair,POP,Tiles,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,None,Fair,Fair,Not present,None
+356,Bungalow,25000000,3,18,2,2,Absent,Low density,Fair,PVC,Cement screed,Long Span Aluminium Roofing sheet,Louvers Blade,Satin Paint,Fair,Bad,Not present,Private gate/fence
+652,Bungalow,65000000,3,8,2,3,Present,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Fair,Good,Not present,Private gate/fence
+350,Bungalow,35000000,5,25,3,3,Absent,Low density,Fair,Asbestos,Cement screed,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,Gloss Paint,Fair,Fair,Not present,None
+400,Detached house,120000000,5,16,3,4,Absent,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Satin Paint,Fair,Good,Not present,Private gate/fence
+500,Bungalow,60000000,5,12,3,4,Absent,Medium density,Good,Asbestos,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Fair,Not present,Private gate/fence
+670,Bungalow,100000000,3,14,3,3,Present,Medium density,Good,POP,Wooden,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Not present,Private gate/fence
+1300,Detached house,198000000,10,16,7,7,Absent,Medium density,Good,POP,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Private gate/fence
+350,Bungalow,40000000,3,9,3,3,Absent,Medium density,Good,PVC,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Fair,Good,Not present,Private gate/fence
+600,Semi-detached house,190000000,5,2,5,6,Absent,High density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Not present,Gated estate
+300,Detached house,160000000,5,4,5,6,Present,Medium density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Fair,Very good,Not present,Gated estate
+950,Detached house,38000000,5,15,5,5,Absent,Low density,Good,Asbestos,Tiles,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Bad,Not present,Private gate/fence
+300,Semi-detached house,90000000,4,7,3,4,Absent,Medium density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Bad,Good,Not present,Gated estate
+400,Semi-detached house,70000000,4,12,3,4,Present,Medium density,Good,POP,Tiles,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Fair,Good,Not present,Street gate
+550,Semi-detached house,600000000,5,1,5,7,Present,High density,Very good,POP,Tiles,Others,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Very good,Present,Gated estate
+400,Detached house,350000000,5,6,4,5,Absent,High density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Textcote Paint,Good,Very good,Present,Private gate/fence
+500,Detached house,325000000,5,5,5,6,Present,High density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Gloss Paint,Fair,Very good,Not present,Gated estate
+300,Terrace,120000000,4,1,4,5,Absent,High density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Very good,Present,Gated estate
+300,Bungalow,45000000,3,4,3,4,Absent,Medium density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Emulsion Paint,Good,Good,Present,Gated estate
+500,Detached house,160000000,5,3,4,5,Present,Medium density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Fair,Good,Present,Gated estate
+280,Terrace,60000000,3,1,3,4,Absent,Medium density,Good,Others,Marble,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Satin Paint,Fair,Good,Not present,Gated estate
+350,Detached house,47000000,3,12,2,3,Absent,Medium density,Fair,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Satin Paint,Bad,Fair,Not present,None
+500,Detached house,370000000,5,1,5,6,Present,High density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Gated estate
+300,Detached house,225000000,4,8,4,5,Absent,High density,Very good,POP,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Not present,Gated estate
+320,Semi-detached house,140000000,4,10,4,6,Present,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Textcote Paint,Fair,Good,Present,Gated estate
+400,Semi-detached house,76000000,5,15,5,6,Absent,Medium density,Fair,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Street gate
+400,Detached house,200000000,4,2,4,5,Absent,High density,Good,POP,Others,Long Span Aluminium Roofing sheet,Casement,Textcote Paint,Good,Very good,Present,Gated estate
+350,Detached house,175000000,5,1,6,6,Present,Medium density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Private gate/fence
+420,Detached house,250000000,6,2,5,6,Absent,High density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Good,Not present,Private gate/fence
+300,Semi-detached house,190000000,5,1,5,6,Present,High density,Very good,POP,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Very good,Present,Gated estate
+500,Semi-detached house,140000000,4,3,4,5,Absent,Medium density,Very good,Others,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Emulsion Paint,Fair,Very good,Not present,Gated estate
+465,Detached house,180000000,4,5,4,5,Present,High density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Not present,Gated estate
+180,Detached house,120000000,3,4,3,4,Present,Medium density,Good,Others,Tiles,Long Span Aluminium Roofing sheet,Others,Gloss Paint,Bad,Very good,Not present,Private gate/fence
+400,Semi-detached house,280000000,5,1,6,6,Present,High density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Present,Gated estate
+580,Detached house,230000000,5,6,6,7,Present,High density,Good,Others,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Satin Paint,Good,Very good,Present,Private gate/fence
+350,Detached house,87000000,4,1,5,4,Absent,Medium density,Very good,POP,Tiles,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,Satin Paint,Good,Good,Not present,Street gate
+500,Detached house,260000000,5,1,5,6,Present,Medium density,Very good,POP,Tiles,Others,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Very good,Present,Gated estate
+600,Detached house,130000000,4,14,4,5,Absent,Low density,Fair,Others,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Fair,Fair,Not present,Private gate/fence
+500,Bungalow,70000000,3,2,3,4,Absent,Medium density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Private gate/fence
+400,Semi-detached house,175000000,4,5,5,6,Present,High density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Very good,Not present,Gated estate
+170,Semi-detached house,110000000,4,3,4,5,Absent,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Others,Textcote Paint,Good,Good,Not present,Gated estate
+350,Detached house,175000000,5,2,5,6,Present,Medium density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Textcote Paint,Good,Good,Not present,Gated estate
+500,Semi-detached house,120000000,4,5,4,5,Present,Medium density,Very good,POP,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Very good,Not present,Gated estate
+250,Bungalow,75000000,3,1,3,4,Present,High density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Very good,Present,Gated estate
+280,Terrace,75000000,3,1,3,4,Present,Medium density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Satin Paint,Fair,Good,Present,Street gate
+300,Detached house,115000000,5,1,4,5,Present,Medium density,Very good,Others,Tiles,Long Span Aluminium Roofing sheet,Casement,Textcote Paint,Good,Very good,Present,Gated estate
+120,Terrace,75000000,4,2,4,5,Absent,Medium density,Very good,POP,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Street gate
+350,Semi-detached house,120000000,4,1,4,4,Absent,Low density,Very good,POP,Others,Aluminium Step Tiles Roofing Sheet,Casement,Emulsion Paint,Good,Fair,Present,Gated estate
+250,Terrace,125000000,5,3,5,6,Present,High density,Good,POP,Others,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Good,Not present,Private gate/fence
+400,Semi-detached house,150000000,4,5,4,5,Absent,Medium density,Good,Others,Others,Long Span Aluminium Roofing sheet,Casement,Satin Paint,Fair,Very good,Not present,Gated estate
+90,Terrace,55000000,2,5,2,3,Absent,Medium density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Gloss Paint,Good,Good,Present,Gated estate
+250,Terrace,75000000,4,1,4,5,Absent,High density,Good,POP,Tiles,Others,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Street gate
+600,Detached house,150000000,4,1,3,4,Present,Medium density,Very good,POP,Tiles,Others,Glazed Aluminium Sliding Window,Satin Paint,Fair,Good,Not present,Private gate/fence
+501,Detached house,250000000,5,6,6,7,Present,High density,Good,POP,Others,Aluminium Step Tiles Roofing Sheet,Casement,Gloss Paint,Good,Very good,Present,Private gate/fence
+500,,160000000,4,1,5,6,Present,Medium density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Emulsion Paint,Good,Good,Present,Gated estate
+500,Bungalow,60000000,2,1,2,3,Absent,Medium density,Good,POP,Others,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Not present,Private gate/fence
+600,Detached house,65000000,3,2,4,5,Present,Medium density,Fair,Others,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,None,Bad,Bad,Not present,None
+500,Detached house,100000000,4,3,4,5,Absent,Medium density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Gloss Paint,Good,Very good,Present,Private gate/fence
+400,Bungalow,45000000,2,2,3,3,Present,Medium density,Very good,POP,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Good,Not present,Private gate/fence
+300,Detached house,160000000,4,7,4,5,Present,Medium density,Good,POP,Wooden,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Good,Good,Present,Private gate/fence
+350,Semi-detached house,65000000,3,9,4,4,Present,Low density,Good,Others,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Gated estate
+400,Detached house,750000000,5,6,6,7,Present,High density,Very good,POP,Others,Aluminium Step Tiles Roofing Sheet,Casement,Textcote Paint,Good,Very good,Not present,Private gate/fence
+350,Detached house,390000000,5,10,4,5,Absent,High density,Good,POP,Others,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Gated estate
+350,Detached house,600000000,5,2,5,6,Absent,High density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Gated estate
+400,Detached house,490000000,5,1,5,6,Absent,High density,Good,Others,Tiles,Long Span Aluminium Roofing sheet,Casement,Textcote Paint,Good,Very good,Present,Gated estate
+580,Detached house,650000000,6,2,6,7,Present,High density,Very good,Others,Others,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Private gate/fence
+400,Semi-detached house,230000000,4,3,5,6,Present,High density,Good,POP,Others,Long Span Aluminium Roofing sheet,Casement,Gloss Paint,Good,Good,Present,Gated estate
+650,Detached house,600000000,4,1,5,6,Present,High density,Very good,Others,Tiles,Long Span Aluminium Roofing sheet,Others,Gloss Paint,Good,Good,Present,Gated estate
+450,Detached house,260000000,5,3,4,5,Absent,High density,Good,Others,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Present,Gated estate
+300,Bungalow,48000000,3,,3,4,Present,Medium density,Good,POP,Others,Aluminium Step Tiles Roofing Sheet,Casement,Emulsion Paint,Good,Good,Not present,Private gate/fence
+350,Bungalow,75000000,4,3,4,5,Present,High density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Very good,Present,Private gate/fence
+600,Bungalow,67500000,5,12,4,5,Absent,Low density,Good,PVC,Tiles,Long Span Aluminium Roofing sheet,Casement,Gloss Paint,Fair,Good,Not present,Street gate
+650,Bungalow,45000000,4,15,2,3,Absent,Low density,Good,Others,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Satin Paint,Good,Fair,Not present,None
+300,Bungalow,13000000,3,25,2,2,Absent,Low density,Poor,Asbestos,Marble,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,None,Fair,Fair,Not present,None
+300,Bungalow,60000000,3,1,3,4,Present,Medium density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Very good,Not present,Gated estate
+150,Bungalow,55000000,2,4,2,2,Absent,Medium density,Good,POP,Others,Aluminium Step Tiles Roofing Sheet,Casement,Gloss Paint,Good,Good,Not present,Gated estate
+300,Bungalow,24000000,3,10,2,2,Absent,Low density,Fair,POP,Tiles,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,None,Fair,Fair,Not present,None
+300,Bungalow,70000000,3,1,3,4,Present,Medium density,Good,POP,Tiles,Others,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Private gate/fence
+700,Bungalow,40000000,3,6,2,3,Absent,Medium density,Good,Others,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Good,Not present,Private gate/fence
+350,Bungalow,65000000,3,4,3,3,Present,Medium density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Gated estate
+300,Bungalow,49000000,3,4,3,4,Present,Medium density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Fair,Good,Not present,Gated estate
+1400,Bungalow,97000000,5,1,4,5,Present,High density,Good,POP,Tiles,Others,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Street gate
+980,Bungalow,125000000,4,8,4,4,Present,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Fair,Good,Not present,Private gate/fence
+664,Bungalow,50000000,6,9,4,4,Absent,Low density,Fair,PVC,Marble,Corrugated Iron Sheet,Casement,Gloss Paint,Bad,Good,Not present,None
+150,Bungalow,20000000,4,28,2,2,Absent,Low density,Fair,Asbestos,Tiles,Corrugated Iron Sheet,Louvers Blade,Gloss Paint,Bad,Fair,Not present,None
+300,Semi-detached house,85000000,4,6,3,4,Present,Medium density,Good,Others,Tiles,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Fair,Good,Present,Gated estate
+280,Terrace,65000000,4,1,3,4,Absent,Medium density,Very good,POP,Tiles,Others,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Not present,Gated estate
+400,Semi-detached house,250000000,4,1,4,5,Present,High density,Very good,POP,Others,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Good,Present,Gated estate
+350,Detached house,380000000,5,3,5,6,Absent,High density,Very good,Others,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Fair,Very good,Present,Gated estate
+500,Detached house,550000000,5,2,5,6,Present,Medium density,Very good,PVC,Tiles,Others,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Very good,Not present,Private gate/fence
+480,Detached house,380000000,5,4,4,5,Absent,High density,Good,POP,Marble,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Present,
+700,Detached house,600000000,6,1,5,6,Present,High density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Good,Not present,Gated estate
+1024,Detached house,535000000,5,35,4,5,Present,High density,Fair,Others,Marble,Others,Glazed Aluminium Sliding Window,Emulsion Paint,Bad,Fair,Not present,Private gate/fence
+250,Semi-detached house,130000000,4,6,3,3,Absent,Medium density,Good,Others,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Fair,Not present,Gated estate
+500,Bungalow,25000000,5,35,2,2,Absent,Low density,Poor,Asbestos,Cement screed,Corrugated Iron Sheet,Louvers Blade,Satin Paint,Bad,Bad,Not present,None
+300,Semi-detached house,150000000,4,4,3,4,Absent,Medium density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Gated estate
+1000,Detached house,70000000,3,18,3,3,Present,Medium density,Good,Asbestos,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Gloss Paint,Fair,Good,Not present,Private gate/fence
+350,Semi-detached house,120000000,4,1,5,4,Present,Medium density,Good,Others,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Present,Gated estate
+350,Bungalow,18000000,10,26,2,2,Absent,Low density,Poor,Asbestos,Cement screed,Corrugated Iron Sheet,Louvers Blade,None,Bad,Fair,Not present,None
+1000,Detached house,200000000,8,18,5,5,Absent,Low density,Good,Asbestos,Tiles,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Good,Good,Not present,Private gate/fence
+500,Semi-detached house,2200000000,7,1,7,8,Present,High density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Very good,Present,Gated estate
+250,Semi-detached house,95000000,4,1,3,4,Absent,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Fair,Very good,Not present,Gated estate
+400,Terrace,170000000,4,2,4,5,Present,High density,Good,Others,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Gated estate
+500,Bungalow,75000000,2,1,3,3,Absent,Medium density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Emulsion Paint,Good,Good,Present,Gated estate
+100,Mini Flat,18000000,1,3,2,1,Absent,Medium density,Good,Others,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Gloss Paint,Fair,Very good,Not present,Private gate/fence
+170,Semi-detached house,110000000,3,4,4,3,Absent,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Gated estate
+400,Bungalow,70000000,4,1,4,4,Absent,High density,Fair,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Private gate/fence
+500,Detached house,380000000,7,3,8,7,Absent,High density,Fair,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Satin Paint,Fair,Fair,Not present,Private gate/fence
+465,Detached house,430000000,5,4,5,4,Present,High density,Good,POP,Others,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Very good,Present,Private gate/fence
+280,Terrace,80000000,3,9,2,3,Absent,Medium density,Good,Others,Tiles,Others,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Very good,Present,Street gate
+900,Detached house,380000000,5,15,5,6,Present,High density,Good,Others,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Textcote Paint,Good,Good,Present,Gated estate
+600,Detached house,480000000,7,16,7,7,Absent,High density,Good,POP,Marble,Others,Casement,Satin Paint,Good,Good,Present,Private gate/fence
+930,Semi-detached house,400000000,5,5,6,6,Present,High density,Good,POP,Others,Others,Casement,Emulsion Paint,Good,Good,Present,Private gate/fence
+800,Detached house,800000000,6,7,7,8,Absent,High density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Very good,Present,Gated estate
+600,Semi-detached house,350000000,5,6,6,7,Absent,High density,Good,POP,Others,Aluminium Step Tiles Roofing Sheet,Casement,Gloss Paint,Good,Good,Present,Gated estate
+500,Detached house,220000000,6,1,5,6,Absent,Medium density,Very good,Others,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Fair,Very good,Present,Gated estate
+640,Detached house,310000000,6,3,5,6,Absent,Medium density,Very good,Others,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Present,Gated estate
+300,Bungalow,170000000,3,1,4,4,Present,High density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Very good,Not present,Gated estate
+450,Terrace,260000000,4,1,5,5,Absent,High density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Textcote Paint,Good,Good,Not present,Gated estate
+320,Detached house,140000000,4,12,4,4,Absent,Low density,Good,Others,Marble,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Good,Present,Private gate/fence
+400,Semi-detached house,120000000,4,7,4,5,Absent,Medium density,Good,Others,Tiles,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Fair,Very good,Present,Street gate
+650,Semi-detached house,170000000,5,13,6,7,Present,High density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Present,Gated estate
+500,Terrace,70000000,3,5,3,3,Absent,Medium density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Emulsion Paint,Good,Good,Not present,Street gate
+300,Detached house,220000000,5,6,4,5,Absent,Medium density,Good,Others,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Satin Paint,Good,Good,Not present,Private gate/fence
+450,Detached house,300000000,7,8,4,5,Absent,High density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Gloss Paint,Good,Good,Present,Private gate/fence
+800,Terrace,130000000,4,7,4,5,Present,High density,Good,Others,Tiles,Long Span Aluminium Roofing sheet,Casement,Gloss Paint,Fair,Fair,Present,Street gate
+180,Bungalow,80000000,4,5,5,5,Absent,High density,Good,Others,Wooden,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Good,Fair,Present,Private gate/fence
+210,Terrace,145000000,4,3,3,4,Absent,High density,Good,Others,Others,Aluminium Step Tiles Roofing Sheet,Casement,Gloss Paint,Good,Good,Not present,Private gate/fence
+400,Detached house,230000000,3,2,2,3,Present,High density,Very good,Others,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Present,Private gate/fence
+300,Semi-detached house,150000000,6,1,5,5,Present,Medium density,Very good,Others,Others,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Good,Good,Not present,Private gate/fence
+400,Detached house,390000000,5,1,6,6,Present,High density,Very good,POP,Marble,Others,Casement,Textcote Paint,Good,Very good,Not present,Private gate/fence
+450,Semi-detached house,120000000,4,5,3,4,Absent,Low density,Very good,POP,Marble,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Fair,Not present,Gated estate
+600,Detached house,400000000,4,2,4,6,Present,High density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Very good,Present,Gated estate
+300,Detached house,95000000,4,10,3,4,Present,Low density,Fair,Asbestos,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Gloss Paint,Good,Good,Not present,None
+400,Terrace,60000000,3,1,4,4,Absent,Medium density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Private gate/fence
+500,Detached house,550000000,5,5,5,5,Absent,High density,Good,Others,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Present,Private gate/fence
+650,Detached house,200000000,4,6,4,4,Present,Medium density,Good,POP,Marble,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Not present,Private gate/fence
+537,Detached house,180000000,5,10,5,6,Absent,Medium density,Good,Others,Marble,Aluminium Step Tiles Roofing Sheet,Casement,Gloss Paint,Fair,Good,Not present,Private gate/fence
+1200,Detached house,140000000,5,8,4,4,Absent,High density,Good,POP,Marble,Long Span Aluminium Roofing sheet,Casement,Satin Paint,Good,Good,Not present,Private gate/fence
+500,Bungalow,35000000,2,35,2,2,Absent,Medium density,Poor,Asbestos,Cement screed,Corrugated Iron Sheet,Louvers Blade,Satin Paint,Bad,Fair,Not present,None
+350,Semi-detached house,75000000,4,5,4,4,Absent,High density,Good,POP,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Gated estate
+600,Semi-detached house,75000000,4,10,4,5,Absent,Medium density,Good,Others,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Fair,Good,Present,Gated estate
+659,Bungalow,55000000,3,2,3,3,Present,High density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Good,Present,Private gate/fence
+350,Semi-detached house,150000000,4,1,4,5,Present,Medium density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Private gate/fence
+200,Terrace,60000000,4,8,4,4,Absent,Medium density,Good,Others,Tiles,Long Span Aluminium Roofing sheet,Casement,Textcote Paint,Fair,Good,Present,Street gate
+500,Bungalow,55000000,3,9,3,4,Present,Medium density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Textcote Paint,Good,Fair,Present,Private gate/fence
+331,Detached house,80000000,5,8,5,5,Absent,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Fair,Good,Present,Gated estate
+225,Terrace,53000000,4,1,4,4,Absent,Low density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Good,Fair,Not present,Gated estate
+400,Detached house,170000000,5,1,4,5,Present,High density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Fair,Good,Not present,Gated estate
+450,Detached house,90000000,6,18,5,6,Present,High density,Fair,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Fair,Fair,Not present,Private gate/fence
+344,Detached house,150000000,10,19,6,6,Absent,Low density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Good,Not present,Private gate/fence
+500,Detached house,120000000,5,22,5,5,Absent,Medium density,Fair,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Textcote Paint,Good,Good,Not present,Private gate/fence
+340,Detached house,90000000,5,12,4,4,Present,Low density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Others,Satin Paint,Good,Very good,Not present,Private gate/fence
+320,Detached house,85000000,4,10,4,5,Present,Medium density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Fair,Good,Not present,Private gate/fence
+623,Detached house,200000000,4,20,4,4,Present,High density,Fair,POP,Marble,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Fair,Not present,Private gate/fence
+440,Terrace,45000000,3,5,3,3,Absent,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Fair,Good,Not present,Gated estate
+430,Detached house,220000000,3,1,4,4,Present,High density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,None,Good,Good,Not present,Private gate/fence
+324,Detached house,160000000,5,8,5,5,Absent,Medium density,Good,Others,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Private gate/fence
+400,Detached house,700000000,5,1,6,7,Present,High density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Others,Textcote Paint,Good,Very good,Present,Private gate/fence
+400,Semi-detached house,80000000,4,8,4,5,Absent,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Fair,Not present,Gated estate
+648,Bungalow,35000000,5,7,4,4,Absent,Low density,Good,PVC,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Fair,Good,Not present,Private gate/fence
+400,Semi-detached house,60000000,4,12,4,4,Absent,Medium density,Good,Others,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Satin Paint,Fair,Good,Not present,Private gate/fence
+500,Detached house,120000000,4,9,4,5,Present,Low density,Good,Others,Others,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Not present,Private gate/fence
+360,Detached house,130000000,5,4,5,5,Absent,High density,Good,Others,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Not present,Gated estate
+350,Semi-detached house,50000000,4,12,4,4,Absent,Medium density,Fair,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Gloss Paint,Fair,Good,Not present,Private gate/fence
+1200,Detached house,300000000,6,1,6,7,Present,High density,Very good,Others,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Private gate/fence
+2000,Detached house,125000000,6,22,6,7,Present,Low density,Good,POP,Marble,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Good,Good,Not present,Private gate/fence
+300,Detached house,55000000,4,2,4,5,Absent,Low density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Textcote Paint,Good,Fair,Not present,Private gate/fence
+750,Detached house,140000000,6,16,6,6,Absent,Medium density,Good,Others,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Emulsion Paint,Good,Fair,Not present,Private gate/fence
+780,Detached house,100000000,5,19,6,6,Present,Medium density,Good,Others,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Good,Not present,None
+846,Bungalow,60000000,4,18,3,3,Absent,Medium density,Good,PVC,Tiles,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Fair,Good,Not present,Private gate/fence
+500,Detached house,95000000,4,4,4,4,Present,Medium density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Gated estate
+600,Detached house,700000000,5,1,6,7,Present,High density,Very good,POP,Tiles,Others,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Very good,Present,Gated estate
+250,Terrace,180000000,4,2,5,5,Absent,Medium density,Very good,POP,Tiles,Others,Casement,Textcote Paint,Good,Good,Not present,Gated estate
+500,Detached house,500000000,5,4,5,6,Present,High density,Good,POP,Others,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Present,Private gate/fence
+300,Detached house,700000000,5,5,5,6,Absent,Medium density,Very good,Others,Others,Aluminium Step Tiles Roofing Sheet,Casement,Gloss Paint,Good,Very good,Present,Gated estate
+250,Semi-detached house,180000000,4,2,4,5,Absent,Low density,Very good,POP,Others,Others,Casement,Textcote Paint,Good,Good,Present,Gated estate
+280,Semi-detached house,160000000,4,5,4,5,Absent,Medium density,Good,POP,Marble,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Gated estate
+300,Detached house,120000000,4,1,4,5,Absent,Medium density,Good,POP,Tiles,Others,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Gated estate
+320,Semi-detached house,150000000,4,4,4,5,Absent,Medium density,Good,Others,Others,Others,Casement,Satin Paint,Good,Fair,Not present,Street gate
+900,Detached house,1200000000,5,1,5,6,Present,High density,Very good,POP,Tiles,Others,Glazed Aluminium Sliding Window,Textcote Paint,Good,Very good,Present,Private gate/fence
+650,Detached house,650000000,5,3,5,6,Absent,High density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Textcote Paint,Good,Good,Present,Private gate/fence
+300,Bungalow,45000000,3,2,3,4,Absent,Medium density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Emulsion Paint,Good,Good,Not present,Private gate/fence
+342,Bungalow,35000000,3,9,3,3,Present,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Fair,Good,Not present,Private gate/fence
+650,Bungalow,55000000,3,1,3,4,Absent,Medium density,Fair,POP,Others,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,None,Good,Good,Not present,Private gate/fence
+417,Semi-detached house,160000000,4,3,4,5,Absent,Medium density,Good,Others,Tiles,Others,Glazed Aluminium Sliding Window,Gloss Paint,Good,Good,Present,Gated estate
+300,Detached house,170000000,4,5,4,4,Absent,Low density,Good,POP,Others,Aluminium Step Tiles Roofing Sheet,Casement,Gloss Paint,Fair,Good,Not present,Private gate/fence
+295,Detached house,280000000,4,10,4,4,Absent,Medium density,Good,Others,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Gloss Paint,Fair,Good,Present,Private gate/fence
+300,Detached house,270000000,5,9,5,5,Absent,High density,Good,POP,Others,Aluminium Step Tiles Roofing Sheet,Casement,Emulsion Paint,Good,Fair,Present,None
+300,Semi-detached house,45000000,4,7,4,5,Absent,Medium density,Poor,Others,Others,Long Span Aluminium Roofing sheet,Others,None,Bad,Fair,Not present,None
+350,Bungalow,8000000,2,18,1,1,Absent,Low density,Fair,Asbestos,Cement screed,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,None,Bad,Fair,Not present,None
+200,Detached house,23000000,6,9,4,4,Absent,Low density,Good,PVC,Tiles,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Fair,Fair,Not present,Private gate/fence
+600,Detached house,140000000,4,7,4,4,Absent,Low density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Textcote Paint,Good,Good,Not present,Private gate/fence
+700,Detached house,120000000,7,16,5,5,Present,Low density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Private gate/fence
+330,Bungalow,40000000,5,10,4,4,Absent,Low density,Fair,Asbestos,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,None,Fair,Good,Not present,None
+400,Semi-detached house,200000000,4,6,4,5,Absent,Medium density,Good,POP,Tiles,Others,Casement,Emulsion Paint,Bad,Good,Present,Gated estate
+280,Bungalow,25000000,4,10,3,4,Absent,Low density,Good,POP,Tiles,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Not present,Private gate/fence
+175,Bungalow,18000000,2,9,2,2,Absent,Low density,Good,PVC,Tiles,Corrugated Iron Sheet,Casement,Gloss Paint,Fair,Good,Not present,None
+400,Detached house,90000000,4,12,4,5,Absent,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Good,Good,Present,Gated estate
+300,Semi-detached house,140000000,4,11,4,4,Present,Medium density,Good,POP,Others,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Private gate/fence
+200,Bungalow,12000000,2,7,2,2,Absent,Low density,Good,Asbestos,Tiles,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,Gloss Paint,Fair,Fair,Not present,Private gate/fence
+220,Bungalow,40000000,2,2,2,3,Absent,Medium density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Private gate/fence
+300,Terrace,110000000,3,4,3,4,Present,Medium density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Street gate
+380,Detached house,450000000,6,5,6,7,Present,High density,Very good,POP,Others,Others,Casement,Emulsion Paint,Good,Good,Present,Private gate/fence
+300,Mini Flat,23000000,1,6,1,1,Absent,Low density,Good,POP,Tiles,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Fair,Fair,Not present,Private gate/fence
+300,Bungalow,23000000,4,1,4,4,Absent,Medium density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Emulsion Paint,Good,Good,Present,Private gate/fence
+400,Semi-detached house,40000000,2,1,2,3,Absent,Low density,Very good,POP,Others,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Street gate
+400,Detached house,60000000,5,10,5,6,Present,Low density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Textcote Paint,Good,Good,Present,Private gate/fence
+200,Bungalow,60000000,2,3,2,2,Absent,Medium density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Emulsion Paint,Fair,Good,Not present,Private gate/fence
+300,Bungalow,43000000,3,2,3,4,Absent,Medium density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Private gate/fence
+648,Bungalow,35000000,3,13,3,3,Absent,Medium density,Fair,Asbestos,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Satin Paint,Good,Good,Not present,Private gate/fence
+300,Semi-detached house,65000000,4,7,4,4,Absent,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Not present,Private gate/fence
+657,Detached house,450000000,6,15,6,7,Present,High density,Good,POP,Others,Others,Glazed Aluminium Sliding Window,Textcote Paint,Good,Very good,Not present,Private gate/fence
+900,Detached house,440000000,6,10,7,7,Present,High density,Good,POP,Marble,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Very good,Present,Gated estate
+400,Semi-detached house,130000000,5,6,5,6,Absent,Medium density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Very good,Present,Gated estate
+600,Bungalow,80000000,4,1,4,4,Absent,Medium density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Private gate/fence
+600,Detached house,500000000,6,12,6,6,Absent,High density,Good,POP,Tiles,Others,Casement,Emulsion Paint,Fair,Very good,Not present,Private gate/fence
+250,Detached house,80000000,5,4,5,5,Present,Medium density,Good,POP,Others,Others,Glazed Aluminium Sliding Window,Gloss Paint,Good,Good,Present,Gated estate
+300,Detached house,1440000000,4,1,4,5,Absent,Medium density,Very good,Others,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Very good,Present,Gated estate
+300,Detached house,170000000,5,11,5,6,Present,High density,Very good,POP,Tiles,Others,Glazed Aluminium Sliding Window,Gloss Paint,Fair,Good,Present,Private gate/fence
+240,Semi-detached house,120500000,4,1,5,5,Absent,Medium density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Private gate/fence
+420,Detached house,170000000,6,2,6,7,Absent,Medium density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Fair,Fair,Present,Private gate/fence
+503,Detached house,270000000,5,1,5,6,Present,Medium density,Very good,POP,Tiles,Others,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Present,Private gate/fence
+350,Detached house,370000000,5,1,6,7,Present,High density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Textcote Paint,Good,Very good,Not present,Gated estate
+500,Detached house,190000000,6,3,6,6,Absent,Medium density,Very good,Others,Marble,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Not present,Private gate/fence
+1200,Detached house,120000000,6,18,4,4,Absent,Medium density,Fair,Asbestos,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,None,Fair,Bad,Not present,Private gate/fence
+600,Detached house,110000000,5,3,5,5,Absent,Medium density,Good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Private gate/fence
+300,Detached house,135000000,4,1,4,4,Absent,Medium density,Good,POP,Tiles,Others,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Not present,Gated estate
+500,Detached house,450000000,5,1,5,6,Present,High density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Gated estate
+400,Semi-detached house,95000000,4,3,4,5,Absent,Low density,Good,Others,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Gated estate
+250,Semi-detached house,120000000,4,1,4,5,Absent,Medium density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Fair,Good,Present,Gated estate
+285,Terrace,87000000,4,4,4,4,Absent,Medium density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Gloss Paint,Good,Good,Present,Gated estate
+400,Detached house,75000000,4,9,4,4,Present,Medium density,Fair,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Fair,Fair,Not present,Private gate/fence
+350,Semi-detached house,96000000,3,1,3,4,Present,Low density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Present,Private gate/fence
+300,Semi-detached house,78000000,5,8,5,5,Absent,Medium density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Gloss Paint,Fair,Good,Present,Private gate/fence
+250,Semi-detached house,85000000,4,2,4,5,Absent,Medium density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Street gate
+230,Semi-detached house,95000000,4,2,4,5,Absent,Medium density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Satin Paint,Fair,Good,Not present,Street gate
+660,Detached house,400000000,6,1,6,7,Absent,High density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Satin Paint,Good,Good,Present,Gated estate
+400,Detached house,120000000,4,6,4,5,Absent,Medium density,Good,POP,Tiles,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,Satin Paint,Good,Good,Not present,Private gate/fence
+600,Detached house,180000000,5,3,5,6,Present,Medium density,Very good,POP,Tiles,Others,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Gated estate
+400,Detached house,220000000,5,5,6,6,Present,High density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Emulsion Paint,Good,Good,Present,Gated estate
+900,Detached house,500000000,5,7,5,6,Present,High density,Very good,POP,Others,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Satin Paint,Good,Good,Present,Gated estate
+300,Semi-detached house,190000000,5,2,5,5,Absent,Medium density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Emulsion Paint,Fair,Good,Present,Private gate/fence
+300,Detached house,280000000,8,6,8,9,Present,High density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Very good,Present,Gated estate
+675,Detached house,400000000,5,8,6,7,Present,High density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Textcote Paint,Good,Very good,Present,Private gate/fence
+500,Detached house,650000000,5,4,5,6,Absent,High density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Good,Present,Gated estate
+500,Semi-detached house,480000000,5,1,5,5,Present,High density,Very good,Others,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Good,Present,Private gate/fence
+400,Semi-detached house,120000000,4,11,4,5,Absent,High density,Good,POP,Others,Others,Glazed Aluminium Sliding Window,Gloss Paint,Good,Good,Not present,Gated estate
+400,Semi-detached house,100000000,4,9,4,5,Present,Low density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Fair,Not present,Private gate/fence
+700,Detached house,260000000,7,13,7,8,Present,Medium density,Good,POP,Wooden,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Very good,Present,Street gate
+300,Detached house,280000000,5,1,5,5,Absent,Medium density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Street gate
+450,Detached house,330000000,5,2,5,6,Absent,High density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Others,Satin Paint,Good,Good,Present,Street gate
+380,Detached house,370000000,5,2,5,6,Absent,High density,Very good,Others,Tiles,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Private gate/fence
+300,Detached house,240000000,5,1,5,6,Absent,High density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Casement,Gloss Paint,Fair,Very good,Present,Private gate/fence
+400,Semi-detached house,320000000,6,3,6,6,Present,High density,Good,POP,Others,Long Span Aluminium Roofing sheet,Casement,Gloss Paint,Good,Good,Present,Gated estate
+300,Terrace,75000000,4,3,4,4,Absent,Low density,Very good,POP,Wooden,Long Span Aluminium Roofing sheet,Casement,Gloss Paint,Good,Very good,Present,Street gate
+650,Detached house,600000000,5,4,5,5,Present,Medium density,Good,POP,Wooden,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Present,Private gate/fence
+400,Terrace,120000000,4,2,4,5,Present,Medium density,Very good,Others,Others,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Street gate
+350,Semi-detached house,120000000,4,1,4,4,Absent,Low density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Satin Paint,Fair,Very good,Present,Street gate
+300,Terrace,117000000,3,1,3,4,Absent,Medium density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Textcote Paint,Good,Very good,Not present,Street gate
+300,Detached house,390000000,5,14,5,5,Absent,Medium density,Good,POP,Wooden,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Private gate/fence
+350,Bungalow,60000000,4,4,4,5,Present,Medium density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Very good,Not present,Street gate
+600,Bungalow,72000000,3,8,3,3,Absent,High density,Good,POP,Marble,Corrugated Iron Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Private gate/fence
+150,Bungalow,30000000,2,9,2,3,Absent,Low density,Good,Others,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Good,Not present,Private gate/fence
+250,Semi-detached house,67000000,2,4,2,3,Absent,Medium density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Good,Present,Gated estate
+250,Bungalow,25000000,2,1,2,3,Absent,Medium density,Good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Casement,Emulsion Paint,Fair,Fair,Not present,Gated estate
+500,Detached house,850000000,5,2,5,6,Absent,High density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Textcote Paint,Good,Good,Present,Gated estate
+180,Terrace,80000000,2,2,2,3,Absent,Medium density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Satin Paint,Good,Good,Not present,Street gate
+200,Terrace,80000000,3,3,3,4,Absent,Medium density,Very good,POP,Tiles,Long Span Aluminium Roofing sheet,Glazed Aluminium Sliding Window,Gloss Paint,Good,Good,Present,Gated estate
+300,Terrace,195000000,4,1,4,5,Present,Medium density,Very good,POP,Tiles,Aluminium Step Tiles Roofing Sheet,Glazed Aluminium Sliding Window,Emulsion Paint,Good,Very good,Not present,Gated estate
