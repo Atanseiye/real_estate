@@ -93,9 +93,10 @@ if st.button('Submit'):
     prediction = prediction(proc_data)[0]
     if prediction < 0:
         prediction *= -1
+        st.write(f'Given the data you have inputed, I\'m able to say that the value for this house is #{prediction[0]}')
+
     else:
-        prediction
-    st.write(f'Given the data you have inputed, I\'m able to say that the value for this house is #{prediction[0]}')
+        st.write(f'Given the data you have inputed, I\'m able to say that the value for this house is #{prediction[0]}')
     # print(data)
 
 
