@@ -90,8 +90,18 @@ if st.button('Submit'):
     data = pd.DataFrame(input_data)
     # data = data[list(input_data.keys())]
     proc_data = wrangle(data)
+    st.write(proc_data)
     prediction = prediction(proc_data)[0]
     st.write(f'Given the data you have inputed, I\'m able to say that the value for this house is #{prediction[0]}')
+    
+    
+    
+    # if prediction < 0:
+    #     prediction *= -1
+    #     # st.write(f'Given the data you have inputed, I\'m able to say that the value for this house is #{prediction[0]}')
+
+    # else:
+    #     st.write(f'Given the data you have inputed, I\'m able to say that the value for this house is #{prediction[0]}')
     # print(data)
 
 
