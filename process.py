@@ -62,6 +62,8 @@ def prediction(inputs):
         
     with open('model/model_3.pkl', 'rb') as f:
         model = pkl.load(f)
+    with open('model/nn_model.pkl', 'rb') as f:
+        nn_model = pkl.load(f)
 
     scaler_y = joblib.load('scaler_y.pkl')
         
@@ -69,7 +71,9 @@ def prediction(inputs):
     inputs = inputs.values.reshape(1, -1)
     
     predict = model.predict(inputs)
+    nn_prediction = nn_model.predict(inputs)
     
     trasform = scaler_y.inverse_transform(predict.reshape(-1, 1))
+    nn_trasform = scaler_y.inverse_transform(nn_prediction.reshape(-1, 1))
     
-    return trasform
+    return {'linear':trasform, 'nn':nn_trasform}

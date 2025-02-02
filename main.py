@@ -91,8 +91,11 @@ if st.button('Submit'):
     # data = data[list(input_data.keys())]
     proc_data = wrangle(data)
     # st.write(proc_data)
-    prediction = prediction(proc_data)[0]
-    st.write(f'Given the data you have inputed, I\'m able to say that the value for this house is #{prediction[0]:.0f}')
+    # st.write(prediction(proc_data))
+    predictions = prediction(proc_data)
+    linear = predictions['linear'][0]
+    nn = predictions['nn'][0]
+    st.write(f'Given the data you have inputed, I\'m able to say that the value for this house for --- is #{linear[0]:.2f} for neural network: #{nn[0]:.2f}')
     
     
     

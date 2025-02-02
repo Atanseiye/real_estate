@@ -8,26 +8,26 @@ def wrangle(new_data_df):
 
     
     # Loading the saved encoders and scalers
-    type_encoder = joblib.load('scaler/type_encoder.pkl')
-    boy_encoder = joblib.load('scaler/boy_encoder.pkl')
-    density_encoder = joblib.load('scaler/density_encoder.pkl')
-    cond_encoder = joblib.load('scaler/cond_encoder.pkl')
-    ceil_encoder = joblib.load('scaler/ceil_encoder.pkl')
-    floor_encoder = joblib.load('scaler/floor_encoder.pkl')
-    roof_encoder = joblib.load('scaler/roof_encoder.pkl')
-    win_encoder = joblib.load('scaler/win_encoder.pkl')
-    paint_encoder = joblib.load('scaler/paint_encoder.pkl')
-    water_encoder = joblib.load('scaler/water_encoder.pkl')
-    ele_encoder = joblib.load('scaler/ele_encoder.pkl')
-    car_encoder = joblib.load('scaler/car_encoder.pkl')
-    sec_encoder = joblib.load('scaler/sec_encoder.pkl')
+    type_encoder = joblib.load('type_encoder.pkl')
+    boy_encoder = joblib.load('boy_encoder.pkl')
+    density_encoder = joblib.load('density_encoder.pkl')
+    cond_encoder = joblib.load('cond_encoder.pkl')
+    ceil_encoder = joblib.load('ceil_encoder.pkl')
+    floor_encoder = joblib.load('floor_encoder.pkl')
+    roof_encoder = joblib.load('roof_encoder.pkl')
+    win_encoder = joblib.load('win_encoder.pkl')
+    paint_encoder = joblib.load('paint_encoder.pkl')
+    water_encoder = joblib.load('water_encoder.pkl')
+    ele_encoder = joblib.load('ele_encoder.pkl')
+    car_encoder = joblib.load('car_encoder.pkl')
+    sec_encoder = joblib.load('sec_encoder.pkl')
 
-    build_scaler = joblib.load('scaler/build_scaler.pkl')
-    bed_scaler = joblib.load('scaler/bed_scaler.pkl')
-    age_scaler = joblib.load('scaler/age_scaler.pkl')
-    toil_scaler = joblib.load('scaler/toil_scaler.pkl')
-    bath_scaler = joblib.load('scaler/bath_scaler.pkl')
-    scaler_y = joblib.load('scaler/scaler_y.pkl')
+    build_scaler = joblib.load('build_scaler.pkl')
+    bed_scaler = joblib.load('bed_scaler.pkl')
+    age_scaler = joblib.load('age_scaler.pkl')
+    toil_scaler = joblib.load('toil_scaler.pkl')
+    bath_scaler = joblib.load('bath_scaler.pkl')
+    scaler_y = joblib.load('scaler_y.pkl')
     
     # Apply the encoders and scalers to new data
     new_data_df['type'] = type_encoder.transform([new_data_df['type']])
@@ -62,14 +62,18 @@ def prediction(inputs):
         
     with open('model/model_3.pkl', 'rb') as f:
         model = pkl.load(f)
+    with open('model/nn_model.pkl', 'rb') as f:
+        nn_model = pkl.load(f)
 
-    scaler_y = joblib.load('scaler/scaler_y.pkl')
+    scaler_y = joblib.load('scaler_y.pkl')
         
         
     inputs = inputs.values.reshape(1, -1)
     
     predict = model.predict(inputs)
+    nn_prediction = nn_model.predict(inputs)
     
     trasform = scaler_y.inverse_transform(predict.reshape(-1, 1))
+    nn_trasform = scaler_y.inverse_transform(nn_prediction.reshape(-1, 1))
     
-    return trasform
+    return {'linear':trasform, 'nn':nn_trasform}

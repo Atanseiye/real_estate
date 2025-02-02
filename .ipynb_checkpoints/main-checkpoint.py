@@ -90,9 +90,11 @@ if st.button('Submit'):
     data = pd.DataFrame(input_data)
     # data = data[list(input_data.keys())]
     proc_data = wrangle(data)
-    st.write(proc_data)
-    prediction = prediction(proc_data)[0]
-    st.write(f'Given the data you have inputed, I\'m able to say that the value for this house is #{prediction[0]}')
+    # st.write(proc_data)
+    st.write(prediction(proc_data))
+    # prediction = prediction(proc_data)['linear'][0]
+    # nn_prediction = prediction(proc_data)['nn'][0]
+    # st.write(f'Given the data you have inputed, I\'m able to say that the value for this house for --- is #{prediction[0]:.0f} for neural network: #{nn_prediction[0]:.0f}')
     
     
     
