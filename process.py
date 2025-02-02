@@ -1,4 +1,4 @@
-# from sklearn.preprocessing import LabelEncoder, MinMaxScaler, StandardScaler
+from sklearn.preprocessing import LabelEncoder, MinMaxScaler, StandardScaler
 import pickle as pkl
 import joblib
 import numpy as np
