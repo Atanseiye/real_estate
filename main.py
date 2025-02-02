@@ -95,7 +95,7 @@ if st.button('Submit'):
     predictions = prediction(proc_data)
     linear = predictions['linear'][0]
     nn = predictions['nn'][0]
-    st.write(f'Given the data you have inputed, I\'m able to say that the value for this house for --- is #{linear[0]:.2f} for neural network: #{nn[0]:.2f}')
+    st.write(f'Given the data you have inputed, I\'m able to say that the value for this house for Random Forest is #{linear[0]:.2f} for neural network: #{nn[0]:.2f}')
     
     
     
