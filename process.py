@@ -1,4 +1,4 @@
-from sklearn.preprocessing import LabelEncoder, MinMaxScaler, StandardScaler
+# from sklearn.preprocessing import LabelEncoder, MinMaxScaler, StandardScaler
 import pickle as pkl
 import joblib
 import numpy as np
@@ -60,9 +60,9 @@ def wrangle(new_data_df):
 def prediction(inputs):
 
         
-    with open('model/model_3.pkl', 'rb') as f:
+    with open('model_3.pkl', 'rb') as f:
         model = pkl.load(f)
-    with open('model/nn_model.pkl', 'rb') as f:
+    with open('nn_model.pkl', 'rb') as f:
         nn_model = pkl.load(f)
 
     scaler_y = joblib.load('scaler_y.pkl')
