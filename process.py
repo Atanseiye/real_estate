@@ -4,9 +4,7 @@ import joblib
 import numpy as np
 
 
-def wrangle(new_data_df):  
-
-    
+def wrangle(new_data_df):      
     # Loading the saved encoders and scalers
     type_encoder = joblib.load('type_encoder.pkl')
     boy_encoder = joblib.load('boy_encoder.pkl')

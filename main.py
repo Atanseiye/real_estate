@@ -97,15 +97,6 @@ if st.button('Submit'):
     nn = predictions['nn'][0]
     st.write(f'Given the data you have inputed, I\'m able to say that the value for this house for Random Forest is #{linear[0]:.2f} for neural network: #{nn[0]:.2f}')
     
-    
-    
-    # if prediction < 0:
-    #     prediction *= -1
-    #     # st.write(f'Given the data you have inputed, I\'m able to say that the value for this house is #{prediction[0]}')
-
-    # else:
-    #     st.write(f'Given the data you have inputed, I\'m able to say that the value for this house is #{prediction[0]}')
-    # print(data)
 
 
 
